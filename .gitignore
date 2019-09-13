@@ -1,0 +1,10 @@
+# Autosaves
+*~
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.pdf
+
+docs/plan/*
